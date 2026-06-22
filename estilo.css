@@ -7,7 +7,24 @@
 }
 
 body{
-    background-color: rgb(127, 127, 209);
+    background-color: rgb(164, 164, 252);
     color: rgb(232, 246, 252);
     
+}
+
+.cabecalho{
+    background-color: rgb(255, 255, 255);
+    text-align: center ;
+    padding: 20px;
+}
+.imagem-post{
+    width: 80px;
+    height: 80px;
+}
+main{
+background-color: aquamarine;
+color: aliceblue;
+max-width: 800px;
+margin: 0 auto;
+padding: 16px;
 }
