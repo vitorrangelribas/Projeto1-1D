@@ -2,42 +2,42 @@
 
 *{
 
-    margin: 0
-    padding:0
+    margin: 0;
+    padding: 0;
 }
 
 body{
-    background-color: rgb(164, 164, 252);
-    color: rgb(232, 246, 252);
-    
+    background-color: rgb(178, 176, 248);
+    color: rgb(255, 255, 255);
+    font-family: "Roboto", sans-serif;
 }
 
 .cabecalho{
-    background-color: rgb(255, 255, 255);
-    text-align: center ;
+    background-color: rgb(117, 102, 199);
+    text-align: center; 
     padding: 20px;
 }
 .imagem-post{
     width: 80px;
     height: 80px;
-}
+} 
 main{
-background-color: aquamarine;
-color: aliceblue;
-max-width: 800px;
-margin: 0 auto;
-padding: 16px;
+    background-color: rgb(101, 109, 224);
+    color: rgb(28, 54, 104);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
 article{
- display: flex;
+    display: flex;
 }
-. texto-post{
+.texto-post{
     margin-left: 40px;
 }
-button{ 
-width: 100px;
-padding: 10px;
-border-radius: 10px;
-background-color: aquamarine;
-color: white;
+button{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(94, 144, 219);
+    color: black;
 }
